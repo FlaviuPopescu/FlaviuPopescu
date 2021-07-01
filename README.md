@@ -32,11 +32,11 @@ My favorite brands, platforms, tools and programming languages that I have exper
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What does it take to be a web application security consultant?](https://flaviu.io/what-does-it-take-to-be-a-application-security-consultant/)
 - [Le Tour Du Hack 2021](https://flaviu.io/le-tour-du-hack-2021/)
 - [Octavis.io - We have officially launched!](https://flaviu.io/octavis-officially-launched/)
 - [GCU's Student News Page](https://flaviu.io/gcu-student-news-cyber-security/)
 - [I come in peace!](https://flaviu.io/oracle-vulnerability-disclosure/)
-- [Don't ask me to do a darn thing, I'm RED HATTING](https://flaviu.io/red-hat-vulnerability-disclosure/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://flaviu.io/)
