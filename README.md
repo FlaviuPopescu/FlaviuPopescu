@@ -1,7 +1,5 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Flaviu Popescu.
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
-
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/flavsecurity?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=flavsecurity) ![Discord](https://img.shields.io/discord/380886988922028034?style=flat-square) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flaviupopescu) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flaviupopescu.visitor-badge)](https://github.com/flaviupopescu) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flaviupopescu)
