@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/flavsecurity?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=flavsecurity) ![Discord](https://img.shields.io/discord/380886988922028034?style=flat-square) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flaviupopescu) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flaviupopescu.visitor-badge)](https://github.com/flaviupopescu) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flaviupopescu)
 
 
-I am an ambitious 2nd year University student eager to learn more about Cyber Security. My interests include but are not limited to Offensive Security Ops, Advanced Persistent Threat Malware, Nation State Cyber Ops, and OSINT.
+An aspiring Red Teamer, current Penetration Tester, my interests include but are not limited to Reverse Engineering, Advanced Persistent Threat Malware, Cyber-HUMINT, Nation State Cyber Ops, and OSINT.
 
 In my free time, I enjoy riding motorbikes, If It's Red and Fast then it's a Ducati!
 "Four wheels move the body, two wheels move the soul."
